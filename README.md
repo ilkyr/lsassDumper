@@ -24,3 +24,8 @@ To run lsassDumper, open a PowerShell window as Administrator and navigate to th
 
 ```powershell
 .\lsassDumper.ps1 [-Path <custom_directory>]
+```
+
+## Legal Disclaimer and Permissions
+
+**Caution:** lsassDumper is intended for use in authorized security testing and research environments only. You are responsible for ensuring you have the necessary permissions to use this tool in your specific context. Unauthorized use of this tool to access, modify, or interfere with system processes can result in legal consequences. By using lsassDumper, you agree to do so legally and ethically. The author disclaims any liability for misuse or damages resulting from the use of lsassDumper.
